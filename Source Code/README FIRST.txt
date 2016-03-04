@@ -1,0 +1,1 @@
+Open "Security_SteganographyProject.sln", given in the accompanied folder with Visual Studio IDE.
